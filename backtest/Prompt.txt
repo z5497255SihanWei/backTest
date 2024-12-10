@@ -1,0 +1,18 @@
+P：
+【上传README.md文件】
+这是我需要做的任务，请告诉我应该如何完成
+P：
+教我如何完成 
+P:
+每个步骤和每段代码的解释清楚一点
+P:
+在pycharm中运行和测试
+P:
+Run backtest.py 的时候：ValueError: could not convert string to float: '000001.SZ'
+P:
+使用 Python 的 requests 库来代替 curl 发送 HTTP 请求
+P:
+【上传文件】
+到此我的任务全部完成了吗
+请查看我的文件内容确认
+
